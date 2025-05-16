@@ -1,0 +1,9 @@
+{
+    "name": "chaster-bot",
+    "private": true,
+    "workspaces": [
+      "backend",
+      "frontend"
+    ]
+  }
+  
